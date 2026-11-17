@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/stagerag-production-automation-pack-11/sitemap.xml
